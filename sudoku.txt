@@ -1,0 +1,24 @@
+ Username: pp
+ pp select : 1 
+ The numbers pp put in...
+ pp enter row 1, column 1 : 1
+ pp enter row 1, column 2 : 2
+ pp enter row 1, column 3 : 3
+ pp enter row 2, column 2 : 4
+ pp enter row 2, column 3 : 5
+ pp enter row 3, column 1 : 6
+ pp enter row 3, column 3 : 1
+ pp enter row 3, column 4 : 2
+ pp enter row 4, column 1 : 5
+ pp enter row 4, column 2 : 2
+ pp enter row 4, column 4 : 1
+ pp enter row 2, column 3 : 1
+ pp enter row 3, column 1 : 2
+ pp enter row 3, column 3 : 3
+ pp enter row 3, column 4 : 1
+ pp enter row 4, column 1 : 4
+ pp enter row 4, column 2 : 2
+ pp enter row 3, column 3 : 3
+ pp enter row 3, column 4 : 3
+ pp enter row 4, column 2 : 3
+ pp enter row 3, column 3 : 4
